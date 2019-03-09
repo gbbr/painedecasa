@@ -1,0 +1,4 @@
+baseURL = "http://www.painedecasa.ro/"
+languageCode = "ro-ro"
+title = "Paine de casa"
+theme = "book"
