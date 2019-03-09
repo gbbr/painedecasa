@@ -1,5 +1,5 @@
 {{ define "main" }}
-  {{ $paginator := .Paginate (where .Pages "Params.hidden" "ne" true) }}
+  {{ $paginator := .Paginate (where .Pages "Type" "post") }}
   {{ range sort .Paginator.Pages }}
   <article>
     <h2>

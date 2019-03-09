@@ -74,6 +74,10 @@ aside nav ul {
   }
 }
 
+.footnotes ol > li {
+  font-size: $font-size-14;
+}
+
 ul.pagination {
   display: flex;
   justify-content: center;

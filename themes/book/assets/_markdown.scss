@@ -7,7 +7,11 @@ $block-border-radius: 0.15rem;
 
   > :first-child {
     margin-top: 0;
-    line-height: 1em;
+    line-height: 1.7em;
+  }
+
+  > p:first-child {
+    font-style: italic;
   }
 
   h1, h2, h3, h4, h5 {
