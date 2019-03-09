@@ -1,7 +1,6 @@
 ---
 title: "Painea De Casa"
 date: 2019-03-09T15:53:10+02:00
-type: post
 ---
 
 Care-i faza cu painea de casa? De ce sa ma deranjez sa o gatesc? Nu am timp pentru asa ceva. Facutul painii este ceva dificil ceea ce am depaseste.
@@ -19,7 +18,7 @@ Si mai ales: proaspata, moale si cu o coaja crocanta.
 
 De atunci, ma gandeam destul de des, motivat de curajul prins datorita succesului meu cu experimentele pizza, sa incerc si eu o paine. Am inceput cu [Flour Water Salt Yeast][FWSY] de Ken Forkish, pentru ca era la moda si auzisem lucruri bune despre cartea aceasta. De la el am invatat sa fac si pizza, din [The Elements of Pizza][PizzaBook] [^1].
 
-Consider ca am invatat multe de atunci, iar acest site este un mediu prin care sper ca nu numai sa ii incurajez si pe altii sa o faca, ci sa si descoperim impreuna surse de hrana mai bune, organice, sa mancam sanatos.
+Am facut-o si consider ca am invatat multe, iar acest site este un mediu prin care sper ca nu numai sa ii incurajez si pe altii sa o faca prin retete, imagini si recomandari, ci sa si descoperim impreuna surse de hrana mai bune, organice, sa mancam sanatos.
 
 <img width="100%" src="/images/lalele-t80.jpg" />
 
