@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+{{- partial "pages/shared" -}}
+<html>
+
+<head>
+  {{ partial "pages/html-head" . }}
+  {{ partial "pages/inject/head" . }}
+</head>
+
+<body>
+  <input type="checkbox" style="display: none" id="menu-control" />
+  <main class="flex container">
+
+    <aside class="book-menu fixed">
+      {{ partial "pages/menu" . }}
+    </aside>
+
+    <div class="book-page">
+      {{ partial "pages/mobile-header" . }}
+      {{ template "main" . }}
+      {{ partial "pages/git-footer" . }}
+    </div>
+
+    {{ template "toc" . }}
+  </main>
+
+  {{ partial "pages/inject/body" . }}
+  {{ template "_internal/google_analytics_async.html" . }}
+</body>
+
+</html>

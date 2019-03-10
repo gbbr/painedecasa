@@ -1,0 +1,24 @@
+{{ define "main" }}
+  {{ $paginator := .Paginate (where .Pages "Params.featured" true) }}
+  {{ $pages := sort .Paginator.Pages }}
+  {{ range sort $pages }}
+  <article>
+    <h2>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </h2>
+    <h5>
+      <strong>{{ .Date.Format "January 2, 2006" }}</strong>
+    </h5>
+    <p class="markdown">
+      {{- .Summary -}}
+      {{ if .Truncated }}
+        <a href="{{ .RelPermalink }}">...</a>
+      {{ end }}
+    </p>
+    {{ if eq (len $pages) 1 }}
+      <a href="{{ .RelPermalink }}">Citește mai departe...</a>
+    {{ end }}
+  </article>
+  {{ end }}
+  {{ template "_internal/pagination.html" . }}
+{{ end }}

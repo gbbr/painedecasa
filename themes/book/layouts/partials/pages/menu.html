@@ -1,0 +1,12 @@
+<nav role="navigation">
+{{ partial "pages/brand" . }}
+{{ partial "pages/inject/menu-before" . }}
+
+{{ if .Site.Params.BookMenuBundle }}
+    {{ partial "pages/menu-bundle" . }}
+{{ else }}
+    {{ partial "pages/menu-filetree" . }}
+{{ end }}
+
+{{ partial "pages/inject/menu-after" . }}
+</nav>
