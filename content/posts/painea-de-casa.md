@@ -1,6 +1,7 @@
 ---
-title: "Painea De Casa"
+title: "Pâinea De Casă"
 date: 2019-03-09T15:53:10+02:00
+featured: true
 ---
 
 Care-i faza cu painea de casa? De ce sa ma deranjez sa o gatesc? Nu am timp pentru asa ceva. Facutul painii este ceva dificil ceea ce am depaseste.

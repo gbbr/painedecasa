@@ -1,4 +1,5 @@
 ---
-title: Introduction
-type: docs
+title: Featured posts
+type: posts
+layout: featured
 ---

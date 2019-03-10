@@ -1,5 +1,5 @@
 baseURL: http://www.painedecasa.ro/
-title: Paine de casa
+title: Pâine de casă
 theme: book
 disableKinds: ["taxonomy", "taxonomyTerm"]
 # themesDir: ../..

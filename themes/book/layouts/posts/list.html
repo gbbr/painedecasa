@@ -1,6 +1,8 @@
 {{ define "main" }}
   {{ $paginator := .Paginate (where .Pages "Params.hidden" "ne" true) }}
-  {{ range sort .Paginator.Pages }}
+  {{ $pages := sort .Paginator.Pages }}
+  {{ $pageCount := len $pages }}
+  {{ range $pages }}
   <article>
     <h2>
       <a href="{{ .RelPermalink }}">{{ .Title }}</a>
@@ -14,6 +16,9 @@
         <a href="{{ .RelPermalink }}">...</a>
       {{ end }}
     </p>
+    {{ if eq (len $pages) 1 }}
+      <a href="{{ .RelPermalink }}">Citește mai departe...</a>
+    {{ end }}
   </article>
   {{ end }}
   {{ template "_internal/pagination.html" . }}

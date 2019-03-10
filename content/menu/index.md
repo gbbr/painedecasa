@@ -2,5 +2,5 @@
 headless: true
 ---
 
-- [Despre mine](/docs/despre-mine)
+- [Despre mine](/pages/despre-mine)
 - [Blog](/posts)
