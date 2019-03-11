@@ -12,7 +12,11 @@ Același lucru mi s-a întâmplat și cu pizza. Pizza făcută acasă, tot de [I
 
 <img width="100%" src="/images/pizza_roccbox.jpg" />
 
-Mai târziu am încercat și eu sa fac pâine. A fost extraordinară, și tot procesul o adevărată plăcere (cu inevitabilele mici frustrări) care nu ia prea mult timp și dă rezultate incredibile. Am studiat mult tipurile de făină, sursele lor, diferite metode și rețete si cum afecteaza ele produsul final. Am făcut multe descoperiri.
+Mai târziu am încercat și cu pâinea. A iesit extraordinară de aproape fiecare dată, iar tot procesul o adevărată plăcere (cu inevitabilele mici frustrări) care nu ia prea mult timp și dă rezultate incredibile. Am studiat mult tipurile de făină, proveniența lor, diferite metode, rețete si cum afecteaza ele produsul final. Am făcut multe descoperiri. Am cumpărat o moară și am vorbit cu producători.
+
+> Principala majoră diferență între o pâine facută acasă și una facută la brutărie este intenția. Acasă intenția este de a face o pâine bună pentru a fi împărtășită cu familia. În brutărie și industrie, în 99% din cazuri intenția este consistența și viteza de finalizare a produsului.
+
+M-am gândit să fac acest blog cu intenția de a împărtăși ceea ce am învățat, găsit și descoperit: rețete, surse de hrană bună, ce înseamnă o pâine bună și care e adevărul ei. Sper să vă inspire și pe voi.
 
 <img width="100%" src="/images/lalele-t80.jpg" />
 
