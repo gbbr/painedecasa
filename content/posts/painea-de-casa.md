@@ -1,5 +1,5 @@
 ---
-title: "Pâinea De Casă"
+title: "Motivație"
 date: 2019-03-09T15:53:10+02:00
 featured: true
 ---
