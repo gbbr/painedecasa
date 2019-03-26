@@ -7,6 +7,8 @@
 {{ $styles := resources.Get "book.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
 <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
 
+{{ template "_internal/google_analytics.html" . }}
+
 {{ "<!--" | safeHTML }}
 Made with Book Theme
 https://github.com/alex-shpak/hugo-book

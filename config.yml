@@ -8,6 +8,7 @@ disableKinds: ["taxonomy", "taxonomyTerm"]
 # Book configuration
 disablePathToLower: true
 enableGitInfo: true
+googleAnalytics: UA-136947103-1
 enableEmoji: true
 
 params:
